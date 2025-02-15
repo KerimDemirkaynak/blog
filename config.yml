@@ -20,7 +20,7 @@ minify:
   # minifyOutput: true
 
 languages:
-  en:
+  tr:
     languageName: "Turkish"
     weight: 1
     taxonomies:
@@ -38,27 +38,6 @@ languages:
         - name: Etiket
           url: tags/
           weight: 10
-        - name: WiKi
-          url: https://github.com/adityatelange/hugo-PaperMod/wiki/
-
-  fa:
-    languagedirection: rtl
-    weight: 3
-    title: PaperMod RTL
-    taxonomies:
-      category: FAcategories
-      tag: FAtags
-      series: FAseries
-    menu:
-      main:
-        - name: FATags
-          url: fatags
-          weight: 10
-    # custom params for each language should be under [langcode].parms - hugo v0.120.0
-    params:
-      homeInfoParams:
-        Title: "Hi there \U0001F44B"
-        Content: Welcome to RTL layout
 
 outputs:
   home:
