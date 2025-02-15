@@ -1,6 +1,6 @@
 baseURL: "https://kerimdemirkaynak.github.io/"
 title: Kerim Demirkaynak
-copyright: "© {{ .Date.Year }} [Kerim Demirkaynak](https://kerimdemirkaynak.github.io)"
+copyright: "© [Kerim Demirkaynak](https://kerimdemirkaynak.github.io)"
 paginate: 5
 theme: [hugo-PaperMod]
 defaultContentLanguage: "tr"
