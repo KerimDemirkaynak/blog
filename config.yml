@@ -67,7 +67,7 @@ params:
 
   profileMode:
     enabled: false
-    title: PaperMod
+    title: Kerim Demirkaynak
     imageUrl: "#"
     imageTitle: "Profil Resmi"
     buttons:
@@ -77,7 +77,7 @@ params:
         url: tags
 
   homeInfoParams:
-    Title: "PaperMod Demo"
+    Title: "Kerim Demirkaynak"
     Content: "👋 PaperMod'un demo sayfasına hoş geldiniz!"
 
   socialIcons:
