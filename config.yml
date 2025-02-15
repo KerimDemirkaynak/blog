@@ -24,9 +24,9 @@ languages:
     languageName: "Türkçe"
     weight: 1
     taxonomies:
-      category: kategoriler
-      tag: etiketler
-      series: seriler
+      category: categories
+      tag: tags
+      series: series
     menu:
       main:
         - name: Arşiv
@@ -38,6 +38,9 @@ languages:
         - name: Etiketler
           url: tags/
           weight: 10
+
+params:
+  dateFormat: "02 January 2006"
 
 outputs:
   home:
