@@ -1,0 +1,10 @@
+baseURL = "https://example.com/"
+languageCode = "tr"
+title = "My Hugo Site"
+theme = "hugo-PaperMod"
+defaultContentLanguage = "tr"
+
+[languages]
+  [languages.en]
+    weight = 1
+    title = "English"
