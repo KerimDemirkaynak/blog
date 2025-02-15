@@ -3,6 +3,7 @@ title: PaperMod
 copyright: "© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)"
 paginate: 5
 theme: [hugo-PaperMod]
+defaultContentLanguage = "tr"
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
