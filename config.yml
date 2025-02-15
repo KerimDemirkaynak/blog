@@ -25,8 +25,7 @@ languages:
     weight: 1
     taxonomies:
       category: categories
-      tag: etiketler
-      posts: gönderiler
+      tag: tags
       series: series
     menu:
       main:
@@ -37,7 +36,7 @@ languages:
           url: search/
           weight: 10
         - name: Etiketler
-          url: etiketler/
+          url: tags/
           weight: 10
 
 outputs:
