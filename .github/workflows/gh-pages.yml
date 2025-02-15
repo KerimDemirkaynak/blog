@@ -8,7 +8,7 @@ on:
       - "README.md"
     branches:
       - master
-      - exampleSite
+      - blog
   workflow_dispatch:
     # manual run
     inputs:
