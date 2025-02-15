@@ -37,7 +37,7 @@ languages:
           url: search/
           weight: 10
         - name: Etiketler
-          url: tags/
+          url: etiketler/
           weight: 10
 
 outputs:
