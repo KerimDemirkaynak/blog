@@ -3,7 +3,7 @@ title: PaperMod
 copyright: "© [PaperMod Contributors](https://github.com/adityatelange/hugo-PaperMod/graphs/contributors)"
 paginate: 5
 theme: [hugo-PaperMod]
-defaultContentLanguage = "tr"
+defaultContentLanguage: "tr"
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
@@ -12,7 +12,9 @@ buildFuture: false
 buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
-mainsections: ["posts", "papermod"]
+mainsections:
+  - "posts"
+  - "papermod"
 
 minify:
   disableXML: true
@@ -47,7 +49,6 @@ params:
   env: production
   description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
   author: "Theme PaperMod"
-
   defaultTheme: auto
   ShowShareButtons: true
   ShowReadingTime: true
