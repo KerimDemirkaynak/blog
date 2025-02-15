@@ -1,6 +1,6 @@
 ---
 title: "Arşiv"
-layout: "arsiv"
-# url: "/arsiv"
-summary: "arsiv"
+layout: "archives"
+# url: "/archives"
+summary: "arşiv"
 ---
