@@ -1,5 +1,5 @@
 baseURL: "https://kerimdemirkaynak.github.io/"
-title: Kerim Demirkaynak
+title: Kerim Demirkaynak Blogu
 copyright: "© [Kerim Demirkaynak](https://kerimdemirkaynak.github.io)"
 paginate: 5
 theme: [hugo-PaperMod]
@@ -47,11 +47,11 @@ outputs:
 
 params:
   env: production
-  description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-  author: "Theme PaperMod"
+  description: "Kerim Demirkaynak Blogu"
+  keywords: [Blog, Çeviri, Yazılım]
+  author: "Kerim Demirkaynak"
   defaultTheme: auto
   DateFormat: "2 January 2006"
-  comments: true
   ShowShareButtons: true
   ShowReadingTime: true
   displayFullLangName: true
@@ -62,7 +62,9 @@ params:
   ShowAllPagesInArchive: true
   ShowPageNums: true
   ShowToc: true
-  images: ["https://kerimdemirkaynak.github.io/resimler/20241121_055155.jpg"]
+  images: ["https://kerimdemirkaynak.github.io/resimler/20241121_055155.jpg"];
+
+  comments: true
 
   assets:
     favicon: "https://kerimdemirkaynak.github.io/resimler/favicon.png"
