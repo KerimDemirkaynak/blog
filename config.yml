@@ -65,6 +65,13 @@ params:
   comments: true
   images: ["https://kerimdemirkaynak.github.io/resimler/20241121_055155.jpg"]
 
+// 這邊
+disqus:
+  enable: true
+  shortname: kerimdemirkaynak
+  count: true
+// 到這邊
+
   assets:
     favicon: "https://kerimdemirkaynak.github.io/resimler/favicon.png"
 
