@@ -47,8 +47,8 @@ outputs:
 
 params:
   env: production
-  description: "Kerim Demirkaynak Blogu"
-  keywords: [Blog, Çeviri, Yazılım]
+  description: "Kerim Demirkaynak Blogu’nda teknoloji ve çeviri dünyasını keşfedin"
+  keywords: [Blog, Yazılım, Anime, Manga, Fansub, Altyazı, Yapay zeka, Teknoloji, Şablon tasarım, Anime çeviri, Anime altyazı, Anime haberleri]
   author: Kerim Demirkaynak
   defaultTheme: auto
   DateFormat: "2 January 2006"
@@ -97,11 +97,6 @@ params:
     - name: instagram
       title: "Profili Instagram'da Görüntüle"
       url: "https://instagram.com/kerimdemirkaynak"
-
-  editPost:
-    URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
-    Text: "Değişiklik Öner"
-    appendFilePath: true
 
 markup:
   goldmark:
