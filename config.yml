@@ -49,7 +49,7 @@ params:
   env: production
   description: "Kerim Demirkaynak Blogu"
   keywords: [Blog, Çeviri, Yazılım]
-  author: "Kerim Demirkaynak"
+  author: Kerim Demirkaynak
   defaultTheme: auto
   DateFormat: "2 January 2006"
   ShowShareButtons: true
