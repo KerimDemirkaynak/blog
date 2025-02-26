@@ -77,21 +77,21 @@ params:
 
   homeInfoParams:
     Title: "Kerim Demirkaynak"
-    Content: "👋 PaperMod'un demo sayfasına hoş geldiniz!"
+    Content: "👋 Bloguma hoş geldiniz!"
 
   socialIcons:
+    - name: youtube
+      title: "Profili YouTube'da Görüntüle"
+      url: "https://youtube.com/@KerimDemirkaynak?sub_confirmation=1"
     - name: github
-      title: "Kaynağı GitHub'da Görüntüle"
-      url: "https://github.com/adityatelange/hugo-PaperMod"
-    - name: Discord
-      title: "Discord Topluluğuna Katıl"
-      url: "https://discord.gg/ahpmTvhVmp"
+      title: "Profili GitHub'da Görüntüle"
+      url: "https://github.com/KerimDemirkaynak"
     - name: X
-      title: "PaperMod'u X/Twitter'da Paylaş"
-      url: "https://x.com/intent/tweet/?text=Hugo%20PaperMod%20%E2%9C%A8%20Deneyin&url=https://github.com/adityatelange/hugo-PaperMod&hashtags=Hugo,PaperMod"
-    - name: KoFi
-      title: "Bana bir kahve ısmarla :)"
-      url: "https://ko-fi.com/adityatelange"
+      title: "Profili X'te Görüntüle"
+      url: "http://x.com/KDxOFFICIAL"
+    - name: instagram
+      title: "Profili Instagram'da Görüntüle"
+      url: "https://instagram.com/kerimdemirkaynak"
 
   editPost:
     URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
