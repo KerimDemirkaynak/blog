@@ -1,5 +1,5 @@
 # theme.toml template for a Hugo theme test
-# See https://github.com/gohugoio/hugoThemes#themetoml for an example
+# See https://github.com/gohugoio/hugoThemes#themetoml for an example test
 
 name = "PaperMod"
 license = "MIT"
