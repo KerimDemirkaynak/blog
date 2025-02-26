@@ -62,9 +62,8 @@ params:
   ShowAllPagesInArchive: true
   ShowPageNums: true
   ShowToc: true
-  images: ["https://kerimdemirkaynak.github.io/resimler/20241121_055155.jpg"]
-
   comments: true
+  images: ["https://kerimdemirkaynak.github.io/resimler/20241121_055155.jpg"]
 
   assets:
     favicon: "https://kerimdemirkaynak.github.io/resimler/favicon.png"
@@ -82,7 +81,12 @@ params:
 
   homeInfoParams:
     Title: "Kerim Demirkaynak"
-    Content: "👋 Bloguma hoş geldiniz!"
+    Content: >
+    Bloguma hoş geldiniz!👋 
+
+    - **Anime ve teknoloji**ye ilgi duyuyorsanız, içeriklerimi keşfedin ve bana katılın! 🚀  
+
+    - **Yazılım ve tasarım** konularında içerikler için de doğru yerdesiniz. 
 
   socialIcons:
     - name: youtube
