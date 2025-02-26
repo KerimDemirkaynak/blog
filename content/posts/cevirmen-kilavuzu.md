@@ -5,6 +5,7 @@ date: "2020-04-18"
 description: "Çeviri yaparken nelere dikkat etmeniz gerektiğini ve profesyonel çevirmenlik ipuçlarını içeren kapsamlı bir kılavuz. Altyazı oluşturma, terminoloji, kültürel uyarlama ve daha fazlası."
 tags: ["çeviri", "çevirmen", "altyazı", "altyazı çevirisi", "anime çeviri", "dizi çeviri", "film çeviri", "çeviri ipuçları", "çeviri kılavuzu", "çevirmen rehberi", "aegisub rehberi", "anime", "dizi"]
 ShowToc: true
+comments: true
 cover:
     image: "https://upload.wikimedia.org/wikipedia/commons/4/44/Aegisub_screenshot.png" # image path/url
 ---
