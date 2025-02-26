@@ -81,12 +81,7 @@ params:
 
   homeInfoParams:
     Title: "Kerim Demirkaynak"
-    Content: >
-    Bloguma hoş geldiniz!👋
-
-    Anime ve teknolojiye ilgi duyuyorsanız, içeriklerimi keşfedin ve bana katılın! 🚀  
-
-    Yazılım ve tasarım konularında içerikler için de doğru yerdesiniz.
+    Content: "Bloguma hoş geldiniz!👋"
 
   socialIcons:
     - name: youtube
