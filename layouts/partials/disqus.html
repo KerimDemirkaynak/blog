@@ -1,0 +1,14 @@
+<div id="disqus_thread"></div>
+<script>
+    var disqus_config = function () {
+        this.page.url = PAGE_URL;  // Sayfa URL'sini dinamik olarak buraya ekle
+        this.page.identifier = PAGE_IDENTIFIER; // Sayfa kimliğini buraya ekle
+    };
+    (function() {  // Bu kısmı değiştirmeyin
+        var d = document, s = d.createElement('script');
+        s.src = 'https://kerimdemirkaynak.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>JavaScript'i etkinleştirerek <a href="https://disqus.com/?ref_noscript">Disqus yorumlarını</a> görebilirsiniz.</noscript>
