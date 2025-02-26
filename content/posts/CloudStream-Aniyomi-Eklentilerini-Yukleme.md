@@ -5,6 +5,7 @@ date: "2025-02-26"
 description: "Anime sitelerini CloudStream'e Ekleme"
 tags: ["cloudstream", "aniyomi", "cloudstream'e anime sitelerini ekleme"]
 ShowToc: true
+comments: true
 ---
 
 CloudStream, medya içeriklerini hızlıca keşfetmenize olanak tanıyan popüler bir uygulama. Bu yazımızda, CloudStream’e Aniyomi eklentilerini nasıl yükleyeceğinizi adım adım anlatacağız. Böylece favori sitelerinizin içeriklerine erişmek çok daha kolay hale gelecek.
