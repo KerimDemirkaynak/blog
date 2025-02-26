@@ -62,7 +62,7 @@ params:
   ShowAllPagesInArchive: true
   ShowPageNums: true
   ShowToc: true
-  images: ["https://kerimdemirkaynak.github.io/resimler/20241121_055155.jpg"];
+  images: ["https://kerimdemirkaynak.github.io/resimler/20241121_055155.jpg"]
 
   comments: true
 
