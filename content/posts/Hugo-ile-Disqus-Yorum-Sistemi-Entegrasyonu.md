@@ -3,7 +3,7 @@ author: ["Kerim Demirkaynak"]
 title: "Hugo ile Disqus Yorum Sistemi Entegrasyonu"
 date: "2025-03-03"
 description: "Bu rehber, Hugo kullananlar için Disqus yorum sistemini nasıl entegre edeceklerini adım adım anlatır."
-tags: ["hugo", "blog", "disqus", "papermod"]
+tags: ["hugo", "blog", "disqus", "papermod", "website"]
 ShowToc: true
 comments: true
 cover:
