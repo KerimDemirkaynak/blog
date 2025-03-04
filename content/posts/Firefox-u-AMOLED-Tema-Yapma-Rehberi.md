@@ -3,7 +3,7 @@ author: ["Kerim Demirkaynak"]
 title: "Android İçin Firefox'u AMOLED Tema Yapma Rehberi"
 date: "2025-03-04"
 description: "Bu rehber, Firefox Beta sürümünü düzenleyerek AMOLED uyumlu bir siyah tema eklemenize yardımcı olacaktır."
-tags: ["firefox", "firefox beta", "firefox mobile", "amoled tema"]
+tags: ["firefox", "firefox beta", "firefox mobile", "amoled tema", "yazılım"]
 ShowToc: true
 comments: true
 cover:
