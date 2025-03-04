@@ -38,6 +38,8 @@ languages:
         - name: Etiketler
           url: tags/
           weight: 10
+        - name: Ana Sayfa
+          url: https://kerimdemirkaynak.github.io/
 
 outputs:
   home:
