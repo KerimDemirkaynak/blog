@@ -3,7 +3,7 @@ author: ["Kerim Demirkaynak"]
 title: "CloudStream’e Aniyomi Eklentilerini Yükleme Yöntemi"
 date: "2025-02-26"
 description: "Anime sitelerini CloudStream'e Ekleme"
-tags: ["cloudstream", "aniyomi", "cloudstream'e anime sitelerini ekleme"]
+tags: ["cloudstream", "aniyomi", "cloudstream'e anime sitelerini ekleme", "yazılım"]
 ShowToc: true
 comments: true
 cover:
