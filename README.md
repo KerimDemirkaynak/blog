@@ -5,7 +5,7 @@
   <a href="https://kerimdemirkaynak.github.io/blog/" rel="nofollow">
     <img src="https://img.shields.io/badge/Canlı%20Demo-Blog-blue?style=for-the-badge" alt="Live Demo">
   </a>
-    <a href="https://opensource.org/license/mit/" rel="nofollow">
+    <a href="https://github.com/adityatelange/hugo-PaperMod/blob/master/LICENSE" rel="nofollow">
   <img src="https://img.shields.io/badge/LİSANS-MIT-blue.svg?color=97CA01&logoColor=blue&style=for-the-badge" alt="Lisans">
   </a>
 </p>
