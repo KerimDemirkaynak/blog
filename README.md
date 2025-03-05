@@ -2,6 +2,9 @@
 <h4 align="center">🚀 Teknoloji, anime, yazılım ve kişisel projeler üzerine bir blog</h4>
 
 <p align="center">
+  <a href="https://github.com/adityatelange/hugo-PaperMod" rel="nofollow">
+    <img src="https://img.shields.io/badge/PaperMod%20Deposu-Github-red?style=for-the-badge" alt="Asıl depo">
+  </a>
   <a href="https://kerimdemirkaynak.github.io/blog/" rel="nofollow">
     <img src="https://img.shields.io/badge/Canlı%20Demo-Blog-blue?style=for-the-badge" alt="Live Demo">
   </a>
