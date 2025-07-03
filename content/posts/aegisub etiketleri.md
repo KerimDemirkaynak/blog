@@ -2,7 +2,7 @@
 author: ["Kerim Demirkaynak"]
 title: "Aegisub Etiketleri"
 date: "2025-07-03"
-description: "Aşağıda göreceğimiz etiket listesi [Aegisub](/en/aegisub) programına özgü değildir, ancak **ASS** (_Advanced Substation Alpha_) altyazı formatı tarafından desteklenmektedir."
+description: "Aşağıda göreceğimiz etiket listesi Aegisub programına özgü değildir, ancak ASS (Advanced Substation Alpha) altyazı formatı tarafından desteklenmektedir."
 tags: ["aegisub", "aegisub etiketleri", "altyazı düzenleme", "advanced substation alpha"]
 ShowToc: true
 comments: true
