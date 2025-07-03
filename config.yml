@@ -1,7 +1,8 @@
 baseURL: "https://kerimdemirkaynak.github.io/"
 title: Kerim Demirkaynak Blogu
 copyright: "© [Kerim Demirkaynak](https://kerimdemirkaynak.github.io)"
-paginate: 5
+pagination:
+  pagerSize: 5
 theme: [hugo-PaperMod]
 defaultContentLanguage: "tr"
 
@@ -115,7 +116,5 @@ markup:
     noClasses: false
 
 services:
-  instagram:
-    disableInlineCSS: true
-  twitter:
+  x:
     disableInlineCSS: true
