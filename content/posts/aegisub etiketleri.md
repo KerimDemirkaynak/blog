@@ -7,7 +7,7 @@ tags: ["aegisub", "aegisub etiketleri", "altyazı düzenleme", "advanced substat
 ShowToc: true
 comments: true
 cover:
-    image: "https://konachan.net/sample/ba5e9f2ca3d37255f07913a552442bc8/Konachan.com%20-%20145179%20sample.jpg" # image path/url
+    image: "https://antiotaku.wordpress.com/wp-content/uploads/2011/01/gosick0101.png" # image path/url
 ---
  
 # Genel Yapı
