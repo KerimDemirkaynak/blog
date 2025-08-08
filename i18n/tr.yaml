@@ -31,9 +31,3 @@
 
 - id: code_copied
   translation: "Kopyalandı!"
-  
-- id: posts
-  translation: "Gönderiler"
-
-- id: tags
-  translation: "Etiketler"
